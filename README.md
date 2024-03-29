@@ -4,18 +4,21 @@
 # Hello
 <div align="center">
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
-</h2></div>
+</h2></div
+       
 ## :수화기: Contact :수화기:
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:a01063363854@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:rlagusals234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
     <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://nicejmp1.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
+  
 <h2 alifn="left"> :파일_폴더: 2024.03.18 ~ ing :파일_폴더: </h2>
-[메인페이지] : (https://nicejmp1.github.io/class2024/)<br><br>
-[자바스크립트] (https://nicejmp1.github.io/class2024/javascript/index.html)<br><br>
-[MySQL] (https://nicejmp1.github.io/class2024/mysql/index.html) <br><br>
-[퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html)
+[메인 페이지](https://hyunminkim93.github.io/class2024/) <br><br>
+[자바스크립트](https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br>
+[MySQL](https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
+[퀴즈게임](https://hyunminkim93.github.io/class2024/quiz/index.html) 
+
 <h2 align="left"> :망치와_곡괭이: Techonolgies and Tools I Use :망치와_곡괭이: </h2>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
