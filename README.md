@@ -1,23 +1,23 @@
-# :무지개: Hello
+# 🌈 Hello 🎇
 <div align="center">
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+Turning+challenges+into+opportunities+code. through+web+developer." alt="Typing SVG" /></a>
 </h2></div>
 ## :수화기: Contact
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:tsagaanaa123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:rlagusals234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
-    <a href="https://www.instagram.com/0708_bh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://spearboy.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
-<h2 alifn="left"> :파일_폴더: 2024.03.18 ~ ing :파일_폴더: </h2>
-[메인페이지] : (https://spearboy.github.io/class2024/)<br><br>
-[자바스크립트] : (https://spearboy.github.io/class2024/js/index.html)<br><br>
-[MySQL] : (https://spearboy.github.io/class2024/mysql/index.html)<br><br>
-[퀴즈게임] : (https://spearboy.github.io/class2024/quiz/index.html)<br><br>
-<h2 alift="left">:짠: PROJECTS</h2>
+    <a href="https://www.instagram.com/hyunminzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://hyunminkim93.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
+<h2 alifn="left"> 🗂️ 2024.03.18 ~ ing 🗂️ </h2>
+[메인페이지] : (https://hyunminkim93.github.io/class2024/)<br><br>
+[자바스크립트] : (https://hyunminkim93.github.io/class2024/js/index.html)<br><br>
+[MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
+[퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
+<h2 alift="left">🌈PROJECTS</h2>
 <p>[Chapter1]</p>
 <p>[Chapter2]</p>
 <p>[Chapter3]</p>
-<h2 align="left"> :망치와_곡괭이: Techonolgies and Tools I Use :망치와_곡괭이: </h2>
+<h2 align="left"> 🚀Techonolgies and Tools I Use🚀 </h2>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -40,9 +40,9 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <h1>:컴퓨터:Github Log</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spearboy&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=spearboy&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminkim93&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunminkim93&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spearboy&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunminkim93&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
