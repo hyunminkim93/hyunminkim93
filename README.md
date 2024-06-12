@@ -16,7 +16,8 @@
 <p>[Chapter1]</p>
 <p>[Chapter2]</p>
 <p>[Chapter3]</p>
-<h2 align="left"> 🚀 Techonolgies and Tools I Use 🚀 </h2>
+
+<h2 align="left">  Techonolgies and Tools I Use  </h2>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
