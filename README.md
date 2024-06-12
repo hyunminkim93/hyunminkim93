@@ -17,7 +17,8 @@
 <p>[Chapter2]</p>
 <p>[Chapter3]</p>
 
-<h2 align="left">  Techonolgies and Tools I Use  </h2>
+<h2 align="left"> 🚀 Techonolgies and Tools I Use  🚀</h2>
+<div style="display: flex; flex-wrap: wrap;">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -38,7 +39,8 @@
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-<h1>:컴퓨터:Github Log</h1>
+</div>
+<h1>🖥️ Github Log</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminkim93&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunminkim93&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
