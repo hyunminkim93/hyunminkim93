@@ -18,8 +18,8 @@
 <p>[Chapter3]</p>
 
 <h2 align="left">  Techonolgies and Tools I Use  </h2>
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
-![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
