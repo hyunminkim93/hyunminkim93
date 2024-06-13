@@ -15,7 +15,7 @@
 [Mymusic1] : (https://bestmusicyoutube.netlify.app/)<br><br>
 [Mymusic2] : (https://mymusic-chart.netlify.app/)<br><br>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
-[PHP 블로그] : (http://rlagusals234.dothome.co.kr)<br><br>
+[PHP 블로그] : (http://rlagusals234.dothome.co.kr/main/main.php)<br><br>
 [Github 블로그] : (https://hyunminkim93.github.io/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
 <p>[Chapter1]</p> <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a>
