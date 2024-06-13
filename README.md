@@ -16,7 +16,7 @@
 [Mymusic2] : (https://mymusic-chart.netlify.app/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
 <p>[Chapter1]</p> <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a>
-<p>[Chapter2]</p>
+<p>[Chapter2]</p> <a href="https://chicken-house.netlify.app">치킨 사이트</a>
 <p>[Chapter3]</p>
 
 <h2 align="left"> 🚀 Techonolgies and Tools I Use  🚀</h2>
