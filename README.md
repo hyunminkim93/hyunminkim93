@@ -13,7 +13,7 @@
 [MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
 [퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
-<p>[Chapter1]</p>
+<p>[강아지 옷 커스텀]</p> (https://rlagusals235@dathome.co.kr)<br><br>
 <p>[Chapter2]</p>
 <p>[Chapter3]</p>
 
