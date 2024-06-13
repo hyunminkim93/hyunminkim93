@@ -12,6 +12,9 @@
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
 [퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
+[Effect] : (https://hyunminkim93.github.io/class2024/effect/index.html)<br><br>
+[Webd] : (https://hyunminkim93.github.io/class2024/webd/index.html)<br><br>
+[Css] : (https://hyunminkim93.github.io/class2024/css/index.html)<br><br>
 [Mymusic1] : (https://bestmusicyoutube.netlify.app/)<br><br>
 [Mymusic2] : (https://mymusic-chart.netlify.app/)<br><br>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
