@@ -12,6 +12,8 @@
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
 [퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
+[Mymusic1] : (https://bestmusicyoutube.netlify.app/)<br><br>
+[Mymusic2] : (https://bestmusicyoutube.netlify.app/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
 <p>[Chapter1]</p> <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a>
 <p>[Chapter2]</p>
