@@ -16,7 +16,7 @@
 [Webd] : (https://hyunminkim93.github.io/class2024/webd/index.html)<br><br>
 [Css] : (https://hyunminkim93.github.io/class2024/css/index.html)<br><br>
 [Mymusic1] : (https://bestmusicyoutube.netlify.app/)<br><br>
-[Mymusic2] : (https://mymusic-chart.netlify.app/)<br><br>
+[Mymusic2] : (https://youtubemusic3.vercel.app/)<br><br>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
 [Vue.Movie] : (https://search-movie1.netlify.app/)<br><br>
 [PHP 블로그] : (http://rlagusals234.dothome.co.kr/main/main.php)<br><br>
