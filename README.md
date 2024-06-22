@@ -15,7 +15,7 @@
 [Effect] : (https://hyunminkim93.github.io/class2024/effect/index.html)<br><br>
 [Webd] : (https://hyunminkim93.github.io/class2024/webd/index.html)<br><br>
 [Css] : (https://hyunminkim93.github.io/class2024/css/index.html)<br><br>
-[Food] : (https://bestmusicyoutube.netlify.app/)<br><br>
+[Food] : (https://find-food-theta.vercel.app/)<br><br>
 [Mymusic2] : (https://youtubemusic3.vercel.app/)<br><br>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
 [Vue.Movie] : (https://movie-info-vue.web.app/)<br><br>
