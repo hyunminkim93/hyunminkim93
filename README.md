@@ -26,6 +26,9 @@
 <p>[Chapter2] : <a href="https://chicken-site.vercel.app/">치킨 사이트</a> <p>치킨브랜드를 검색하여 치킨정보를 편하게 알고 주문할수있는 사이트입니다.</p> </p>  
 <p>[Chapter3]</p>
 
+<h2 alift="left">🌈 PROJECTS Code</h2>
+<a href="https://github.com/hyunminkim93/FirstProject">
+
 <h2 align="left"> 🚀 Techonolgies and Tools I Use  🚀</h2>
 <div style="display: flex; flex-wrap: wrap;">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" height="25px"/>
