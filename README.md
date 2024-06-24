@@ -44,12 +44,12 @@
 [PHP 블로그] : (http://rlagusals234.dothome.co.kr/main/main.php)<br><br>
 [Github 블로그] : (https://hyunminkim93.github.io/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
-<p>[Chapter1] : <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a> <p>내마음대로 커스텀할수있는 강아지 옷 커스텀 사이트입니다.</p> </p> 
+<p>[Chapter1] : <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀 [강아지 옷 커스텀 코드] : (https://github.com/hyunminkim93/FirstProject)<br><br></a> <p>내마음대로 커스텀할수있는 강아지 옷 커스텀 사이트입니다.</p> </p> 
 <p>[Chapter2] : <a href="https://chicken-site.vercel.app/">치킨 사이트</a> <p>치킨브랜드를 검색하여 치킨정보에 대해서 편하게 알수있는 사이트입니다.</p> </p>  
 <p>[Chapter3]</p>
 
 <h2 alift="left">🌈 PROJECTS Code</h2>
-[강아지 옷 커스텀 코드] (https://github.com/hyunminkim93/FirstProject)<br><br>
+[강아지 옷 커스텀 코드] : (https://github.com/hyunminkim93/FirstProject)<br><br>
 [치킨정보 사이트 코드] (https://github.com/hyunminkim93/chickenSite)<br><br>
 
 
