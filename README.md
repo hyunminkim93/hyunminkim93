@@ -27,7 +27,7 @@
 <p>[Chapter3]</p>
 
 <h2 alift="left">🌈 PROJECTS Code</h2>
-<a href="https://github.com/hyunminkim93/FirstProject">
+<a href="https://github.com/hyunminkim93/FirstProject">강아지 옷 커스텀 코드</a>
 
 <h2 align="left"> 🚀 Techonolgies and Tools I Use  🚀</h2>
 <div style="display: flex; flex-wrap: wrap;">
