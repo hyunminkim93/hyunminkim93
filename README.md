@@ -8,7 +8,7 @@
     <a href="https://www.instagram.com/hyunminzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://hyunminkim93.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
 <h2 alifn="left"> 🗂️ 2024.03.18 ~ ing 🗂️ </h2>
-[메인페이지] : (https://hyunminkim93.github.io/class2024/) <br><br>
+[메인페이지] : (https://hyunminkim93.github.io/class2024/) [코드] (https://github.com/hyunminkim93/class2024)<br><br>
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
 [퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
@@ -28,7 +28,7 @@
 
 <h2 alift="left">🌈 PROJECTS Code</h2>
 [강아지 옷 커스텀 코드] (https://github.com/hyunminkim93/FirstProject)<br><br>
-[치킨정보 사이트 코드] (https://github.com/hyunminkim93/chickenSite))<br><br>
+[치킨정보 사이트 코드] (https://github.com/hyunminkim93/chickenSite)<br><br>
 
 
 
