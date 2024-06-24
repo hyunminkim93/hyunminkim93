@@ -22,7 +22,7 @@
 [PHP 블로그] : (http://rlagusals234.dothome.co.kr/main/main.php)<br><br>
 [Github 블로그] : (https://hyunminkim93.github.io/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
-<p>[Chapter1] : <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a> </p> 
+<p>[Chapter1] : <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a> <p>내마음대로 커스텀할수있는 강아지 옷 커스터 사이트입니다.</p> </p> 
 <p>[Chapter2] : <a href="https://chicken-site.vercel.app/">치킨 사이트</a> </p>  
 <p>[Chapter3]</p>
 
