@@ -9,6 +9,7 @@
   <a href="https://hyunminkim93.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
 <h2 alifn="left"> 🗂️ 2024.03.18 ~ ing 🗂️ </h2>
 [메인페이지] : (https://hyunminkim93.github.io/class2024/) [코드] (https://github.com/hyunminkim93/class2024)<br><br>
+<p>지금까지 해왔던 모든것들이 들어있는 메인 페이지입니다.</p>
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br>
 [퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br>
