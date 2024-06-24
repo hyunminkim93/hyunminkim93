@@ -55,7 +55,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunminkim93&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunminkim93&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunminkim93&theme=default&bg_color=ffffff&hide_border=true" width=94%/>
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?hyunminkim93=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
