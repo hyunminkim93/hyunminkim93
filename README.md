@@ -8,7 +8,8 @@
     <a href="https://www.instagram.com/hyunminzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://hyunminkim93.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
 <h2 alifn="left"> 🗂️ 2024.03.18 ~ ing 🗂️ </h2>
-[메인페이지] : (https://hyunminkim93.github.io/class2024/) [코드] : (https://github.com/hyunminkim93/class2024)<br><br>
+[메인페이지] : (https://hyunminkim93.github.io/class2024/)<br><br>
+[코드] : (https://github.com/hyunminkim93/class2024)<br><br>
 <p> ➡️ 지금까지 해왔던 모든것들이 들어있는 메인 페이지입니다.</p>
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html) [코드] : (https://github.com/hyunminkim93/class2024/tree/main/javascript)<br><br>
 <p> ➡️ Javascript 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기에 대해서 정리했습니다.</p>
