@@ -11,14 +11,23 @@
 [메인페이지] : (https://hyunminkim93.github.io/class2024/)<br><br>
 [코드] : (https://github.com/hyunminkim93/class2024)<br><br>
 <p> ➡️ 지금까지 해왔던 모든것들이 들어있는 메인 페이지입니다.</p>
-[자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html) [코드] : (https://github.com/hyunminkim93/class2024/tree/main/javascript)<br><br>
+
+[자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br> 
+[코드] : (https://github.com/hyunminkim93/class2024/tree/main/javascript)<br><br>
 <p> ➡️ Javascript 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기에 대해서 정리했습니다.</p>
-[MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html) [코드] : (https://github.com/hyunminkim93/class2024/tree/main/mysql)<br><br>
+
+[MySQL] : (https://hyunminkim93.github.io/class2024/mysql/index.html)<br><br> 
+[코드] : (https://github.com/hyunminkim93/class2024/tree/main/mysql)<br><br>
 <p> ➡️ MySQL셋팅, SQL개념, 데이터 베이스, 테이블, SELECT, ALTER 에 대해서 정리했습니다.</p>
-[퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html) [코드] : (https://github.com/hyunminkim93/class2024/tree/main/quiz)<br><br>
+
+[퀴즈게임] : (https://hyunminkim93.github.io/class2024/quiz/index.html)<br><br> 
+[코드] : (https://github.com/hyunminkim93/class2024/tree/main/quiz)<br><br>
 <p> ➡️ Javascript와 json 파일을 활용한 정보처리기능사 필기문제 퀴즈게임 입니다.</p>
-[Effect] : (https://hyunminkim93.github.io/class2024/effect/index.html) [코드] : (https://github.com/hyunminkim93/class2024/tree/main/effect)<br><br>
+
+[Effect] : (https://hyunminkim93.github.io/class2024/effect/index.html)<br><br> 
+[코드] : (https://github.com/hyunminkim93/class2024/tree/main/effect)<br><br>
 <p> ➡️ GSAP와 마우스 이펙트를 활용한 애니메이션 효과주기 입니다.</p>
+
 [Webd] : (https://hyunminkim93.github.io/class2024/webd/index.html)<br><br>
 [Css] : (https://hyunminkim93.github.io/class2024/css/index.html)<br><br>
 [Food] : (https://find-food-amber.vercel.app/))<br><br>
