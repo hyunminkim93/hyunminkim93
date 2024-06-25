@@ -78,7 +78,11 @@
 <h1>🖥️ Github Log</h1>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hyunminkim93}" width="900px"/>
+<img
+  src="https://render.gitanimals.org/farms/hyunminkim93"
+  width="900"
+  height="300"
+/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
