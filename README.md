@@ -80,8 +80,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hyunminkim93"
-  width="900"
-  height="300"
+  width="1200"
+  height="400"
 />
 </a>
 
