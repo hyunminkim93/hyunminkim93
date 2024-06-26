@@ -36,8 +36,11 @@
 [code] : (https://github.com/hyunminkim93/youtubemusic3)<br><br>
 <p> ➡️ 다양한 음악 사이트의 Top100 차트를 JSON 파일로 가져와 보고 들을 수 있으며, 음악을 검색하여 나만의 음악 리스트에 추가해 들을 수 있는 음악 사이트입니다.</p>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
-[code] : (https://github.com/hyunminkim93/vue-site)<br><br>
-<p> ➡️ Vue를 활용한 포트폴리오 입니다.</p>
+[code] : (https://github.com/hyunminkim93/vue-site)<br><br>   
+<p> ➡️ Vue.js를 활용한 포트폴리오 입니다.</p>
+[Next.port] : (https://next-site-dun.vercel.app/)<br><br>
+[code] : (https://github.com/hyunminkim93/next-site)<br><br>   
+<p> ➡️ Next.js를 활용한 포트폴리오 입니다.</p>
 [Vue.Movie] : (https://movie-info-vue.web.app/)<br><br>
 [code] : (https://github.com/hyunminkim93/vue-movie)<br><br>
 <p> ➡️ 다양한 장르의 영화를 검색하고 예고편과 상세 정보를 볼 수 있는 영화 정보 제공 사이트입니다.</p>
