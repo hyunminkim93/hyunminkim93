@@ -11,6 +11,7 @@
 [메인페이지] : (https://hyunminkim93.github.io/class2024/)<br><br>
 [code] : (https://github.com/hyunminkim93/class2024)<br><br>
 <p> ➡️ 한눈에 볼수있는 메인 페이지입니다.</p>
+------------------------------------
 [자바스크립트] : (https://hyunminkim93.github.io/class2024/javascript/index.html)<br><br> 
 [code] : (https://github.com/hyunminkim93/class2024/tree/main/javascript)<br><br>
 <p> ➡️ Javascript 데이터 저장하기, 데이터 불러오기, 데이터 실행하기, 데이터 제어하기에 대해서 정리했습니다.</p>
