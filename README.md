@@ -31,7 +31,7 @@
 <p> ➡️ CSS를 활용한 애니메이션 캐릭터 만들기 입니다.</p>
 [Food] : (https://find-food-amber.vercel.app/))<br><br>
 [code] : (https://github.com/hyunminkim93/find-food)<br><br>
-<p> ➡️ API로 데이터를 받아와 다양한 음식에 대하여 영상을 검색 할수있고 시청 할수있는 음식정보 사이트입니다.</p>
+<p> ➡️ React를 이용해 다양한 음식에 대한 정보를 제공하고 관련 영상을 검색 및 시청할 수 있는 웹사이트를 개발합니다. API를 통해 음식 데이터를 받아와 사용자에게 동영상과 함께 상세 정보를 제공합니다.</p>
 [music-chart] : (https://youtubemusic3.vercel.app/)<br><br>
 [code] : (https://github.com/hyunminkim93/youtubemusic3)<br><br>
 <p> ➡️ React를 이용해 다양한 음악 사이트의 Top100 차트를 JSON 파일로 받아와 보고 들을 수 있는 웹사이트를 개발합니다. API를 활용하여 음악 데이터를 가져오고, 사용자들이 음악을 검색하고 나만의 음악 리스트에 추가해 들을 수 있는 기능을 제공합니다.</p>
@@ -43,13 +43,13 @@
 <p> ➡️ Next.js를 활용한 포트폴리오 입니다.</p>
 [Vue.Movie] : (https://movie-info-vue.web.app/)<br><br>
 [code] : (https://github.com/hyunminkim93/vue-movie)<br><br>
-<p> ➡️ 다양한 장르의 영화를 검색하고 예고편과 상세 정보를 볼 수 있는 영화 정보 제공 사이트입니다.</p>
+<p> ➡️ Vue를 이용해 TMDB API를 통해 다양한 장르의 영화를 검색하고 예고편과 상세 정보를 제공하는 영화 정보 사이트를 개발합니다. TMDB API로 최신 영화 데이터를 받아와 사용자에게 직관적이고 매력적인 인터페이스를 제공합니다.</p>
 [PHP 블로그] : (http://rlagusals234.dothome.co.kr/main/main.php)<br><br>
 [Github 블로그] : (https://hyunminkim93.github.io/)<br><br>
 <h2 alift="left">🌈 PROJECTS</h2>
 <p>[Chapter1] : <a href="http://rlagusals235.dothome.co.kr">강아지 옷 커스텀</a><br><br> 
     [강아지 옷 커스텀 코드] : (https://github.com/hyunminkim93/FirstProject)<br><br> 
-    <p> ➡️ 내마음대로 커스텀할수있는 강아지 옷 커스텀 사이트입니다.</p> </p> 
+    <p> ➡️ PHP를 이용해 사용자가 강아지 옷을 커스텀 디자인할 수 있는 웹사이트를 개발합니다. 로그인, 회원가입, 마이페이지, 게시판 기능을 포함하여 사용자 맞춤형 경험을 제공합니다.</p> </p> 
 <p>[Chapter2] : <a href="https://chicken-site.vercel.app/">치킨 사이트</a><br><br> 
 [치킨정보 사이트 코드] (https://github.com/hyunminkim93/chickenSite)<br><br>
 <p> ➡️ 치킨브랜드를 검색하여 치킨정보에 대해서 편하게 알수있는 사이트입니다.</p> </p>  
