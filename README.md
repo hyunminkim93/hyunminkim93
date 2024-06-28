@@ -34,7 +34,7 @@
 <p> ➡️ API로 데이터를 받아와 다양한 음식에 대하여 영상을 검색 할수있고 시청 할수있는 음식정보 사이트입니다.</p>
 [music-chart] : (https://youtubemusic3.vercel.app/)<br><br>
 [code] : (https://github.com/hyunminkim93/youtubemusic3)<br><br>
-<p> ➡️ 다양한 음악 사이트의 Top100 차트를 JSON 파일로 가져와 보고 들을 수 있으며, 음악을 검색하여 나만의 음악 리스트에 추가해 들을 수 있는 음악 사이트입니다.</p>
+<p> ➡️ React를 이용해 다양한 음악 사이트의 Top100 차트를 JSON 파일로 받아와 보고 들을 수 있는 웹사이트를 개발합니다. API를 활용하여 음악 데이터를 가져오고, 사용자들이 음악을 검색하고 나만의 음악 리스트에 추가해 들을 수 있는 기능을 제공합니다.</p>
 [Vue.port] : (https://hyunminkim93.netlify.app/)<br><br>
 [code] : (https://github.com/hyunminkim93/vue-site)<br><br>   
 <p> ➡️ Vue.js를 활용한 포트폴리오 입니다.</p>
